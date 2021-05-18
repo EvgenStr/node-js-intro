@@ -1,0 +1,25 @@
+{
+  "name": "node-test",
+  "version": "0.0.1",
+  "description": "test",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EvgenStr/node-js-intro.git"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "none",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EvgenStr/node-js-intro/issues"
+  },
+  "homepage": "https://github.com/EvgenStr/node-js-intro#readme",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}
